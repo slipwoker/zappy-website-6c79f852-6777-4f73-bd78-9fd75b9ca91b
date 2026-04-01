@@ -1,35 +1,45 @@
-# Business — Generative Engine Optimization Map
+# אנימה ישראל — Generative Engine Optimization Map
+
+> לבנות אתר פה זה בחינם?
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://animeisrael.zappy5.app
 לבנות אתר פה זה בחינם?
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://animeisrael.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://animeisrael.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://animeisrael.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אנימה ישראל
+לבנות אתר פה זה בחינם?
+
+## Target Audience
+אוהבי אנימה דוברי עברית
+
+## Industry
+בידור ומדיה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://animeisrael.zappy5.app/sitemap.xml
+- **Robots.txt**: https://animeisrael.zappy5.app/robots.txt
